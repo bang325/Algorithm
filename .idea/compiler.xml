@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="basic_class_01" />
+        <module name="class_04" />
+        <module name="class_05" />
+        <module name="class_08" />
+        <module name="class_09" />
+        <module name="LeetCode" />
+        <module name="Tree" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ZhaoShang" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
