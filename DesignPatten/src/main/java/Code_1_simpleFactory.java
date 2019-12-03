@@ -16,7 +16,7 @@ public class Code_1_simpleFactory {
         // char calcChar = sc.next().charAt(0);
         // 用于jdk1.7及之后
         String operate = sc.next();
-        System.out.println("请输入第二个数字:");
+        System.out.println(" 请输入第二个数字:");
         String numberB = sc.next();
         double result = 0;
         Operation oper = null;
