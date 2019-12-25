@@ -30,8 +30,8 @@ public class Code_97_diffString {
     }
     public static void main(String[] args) {
         String s1 = "abc";
-        String s2 = "bad";
-        String s3 = "abbacd";
+        String s2 = "bade";
+        String s3 = "abbacde";
         System.out.println(isInterleave(s1,s2,s3));
     }
 }
